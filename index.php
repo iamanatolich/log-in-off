@@ -86,7 +86,7 @@ function longestLength($text)
     return $max;
 }
 
-echo '<p>3 адание</p>';
+echo '<p>3 задание</p>';
 
 echo "longestLength('abcdeef') = ";
 print_r(longestLength('abcdeef'));// 5
